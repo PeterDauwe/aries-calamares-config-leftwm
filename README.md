@@ -1,0 +1,2 @@
+# Aries-leftwm Calamares configuration
+
